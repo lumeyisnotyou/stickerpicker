@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "lumey.json"
+  ],
+  "homeserver_url": "https://matrix.lumey.dev"
+}
